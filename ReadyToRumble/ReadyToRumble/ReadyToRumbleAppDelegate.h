@@ -1,0 +1,15 @@
+//
+//  ReadyToRumbleAppDelegate.h
+//  ReadyToRumble
+//
+//  Created by Papillon, Raphaël on 2014-09-23.
+//  Copyright (c) 2014 Papillon, Raphaël. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ReadyToRumbleAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
