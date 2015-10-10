@@ -1,5 +1,5 @@
-Goal :
+# Goal :
+This basic iOS app can be used to fill Boxe scorecards.
 
-iOS app used to fill Boxe scorecards
-
-GTI350 - Team work
+# Motivation :
+This project was built as a teamwork for school.
